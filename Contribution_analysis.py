@@ -3,42 +3,37 @@ import pandas as pd
 
 ### IMPORT THE DATA ###
 
+var_name_to_filename_dict = {'water_use': 'Water_use.csv', 
+               'acidification': 'Acidification.csv', 
+               'climate_change': 'Climate_change.csv', 
+               'ecotoxicity': 'Ecotoxicity.csv', 
+               'eutrophication_freshwater': 'Eutrophication_freshwater.csv',
+               'eutrophication_marine':'Eutrophication_marine.csv', 
+               'eutrophication_terrestrial': 'Eutrophication_terrestrial.csv',
+               'human_toxicity_cancer': 'Human_toxicity_cancer.csv', 
+               'human_toxicity_non_cancer': 'Human_toxicity_non_cancer.csv', 
+               'ionising_radiation': 'Ionising_radiation.csv', 
+               'land_use': 'Land_use.csv', 
+               'ozone_depletion': 'Ozone_depletion.csv', 
+               'particulate_matter': 'Particulate_matter.csv', 
+               'photochemical_ozone_formation':'Photochemical_ozone_formation.csv', 
+               'resource_use_fossils': 'Resource_use_fossils.csv', 
+               'resource_use_minerals_metals':'Resource_use_minerals_metals.csv'
+}
+
+def filenames_to_df_dict(var_name_to_filename_dict_in={}):
+     df_dict = {}
+     for label, v in var_name_to_filename_dict_in.items():
+          df = pd.read_csv("Data/Process_contributions/"+ v, sep= ";", header=0)
+          df_dict[label]=df
+     return df_dict
+
+dictionary_all_impact_categories_and_dataframes = filenames_to_df_dict(var_name_to_filename_dict)
+
 #Export the results for the single score from an LCA software, in this case SimaPro is taken as an example
 #The header is the first row, only the first 3 columns are imported [Damage Category, Unit, Total]
 #In this specific example The EF impact categories are used, and the activities and numbers are random between 0-100 - To be replaced by own data
 impact_categories = pd.read_csv("Data/Single_score_randomnized.csv", sep= ";", header=0, usecols=[i for i in range(0,3)]) #https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
-
-#Import the process contribution for each impact category
-water_use = pd.read_csv("Data/Process_contributions/Water_use.csv", sep= ";", header=0)
-acidification = pd.read_csv("Data/Process_contributions/Acidification.csv", sep= ";", header=0)
-climate_change = pd.read_csv("Data/Process_contributions/Climate_change.csv", sep= ";", header=0)
-
-#In this example SimaPro was assumed to be the LCA software. In SimaPro Ecotoxicity can be divided into multiple parts, in this case part 1 and 2. Both dataframes were combined and a new row was added 
-# containing the totals of the combined dataframe
-ecotoxicity_part_1 = pd.read_csv("Data/Process_contributions/Ecotoxicity_part_1.csv", sep= ";", header=0)
-ecotoxicity_part_1 = ecotoxicity_part_1.drop(index=0).reset_index(drop=True) #drop the row containing the totals of ecotoxicity part 1
-ecotoxicity_part_2 = pd.read_csv("Data/Process_contributions/Ecotoxicity_part_2.csv", sep= ";", header=0)
-ecotoxicity_part_2 = ecotoxicity_part_2.drop(index=0).reset_index(drop=True) #drop the row containing the totals of ecotoxicity part 2
-
-ecotoxicity = pd.concat([ecotoxicity_part_1, ecotoxicity_part_2], ignore_index=True).reset_index(drop=True) #Add both dataframes after eachother and reset the index (https://pandas.pydata.org/docs/reference/api/pandas.concat.html)
-
-#The following is based on https://stackoverflow.com/questions/43408621/add-a-row-at-top-in-pandas-dataframe:
-ecotoxicity.index += 1 #Increase the index with 1
-ecotoxicity.loc[0] = ecotoxicity.sum() #Add a row which index is 0 (which does not exist yet as the index was increased by 1 for all the other rows), the row will be added to the end of the dataframe
-ecotoxicity = ecotoxicity.sort_index() #sort the index so the row with the totals will be at the top again
-
-eutrophication_freshwater  = pd.read_csv("Data/Process_contributions/Eutrophication_freshwater.csv", sep= ";", header=0)
-eutrophication_marine = pd.read_csv("Data/Process_contributions/Eutrophication_marine.csv", sep= ";", header=0)
-eutrophication_terrestrial = pd.read_csv("Data/Process_contributions/Eutrophication_terrestrial.csv", sep= ";", header=0)
-human_toxicity_cancer = pd.read_csv("Data/Process_contributions/Human_toxicity_cancer.csv", sep= ";", header=0)
-human_toxicity_non_cancer  = pd.read_csv("Data/Process_contributions/Human_toxicity_non_cancer.csv", sep= ";", header=0)
-ionising_radiation = pd.read_csv("Data/Process_contributions/Ionising_radiation.csv", sep= ";", header=0)
-land_use  = pd.read_csv("Data/Process_contributions/Land_use.csv", sep= ";", header=0)
-ozone_depletion = pd.read_csv("Data/Process_contributions/Ozone_depletion.csv", sep= ";", header=0)
-particulate_matter = pd.read_csv("Data/Process_contributions/Particulate_matter.csv", sep= ";", header=0)
-photochemical_ozone_formation = pd.read_csv("Data/Process_contributions/Photochemical_ozone_formation.csv", sep= ";", header=0)
-resource_use_fossils = pd.read_csv("Data/Process_contributions/Resource_use_fossils.csv", sep= ";", header=0)
-resource_use_minerals_metals = pd.read_csv("Data/Process_contributions/Resource_use_minerals_metals.csv", sep= ";", header=0)
 
 #The names in SimaPro of the impact categories often contain space, capitals etc. Therefore, a matching file was made to link the names given to the impact categories here (See above the names for the imported csv's) to the names used in SimaPro
 matching_file = pd.read_excel("Matching_IC_simapro_python.xlsx")
@@ -57,8 +52,6 @@ impact_categories = impact_categories.sort_values(by="Contribution Impact Catego
 
 List_most_relevant_impact_categories = impact_categories['Damage category'].tolist() # Make a list of the most relevant impact categories identified above (https://pandas.pydata.org/docs/reference/api/pandas.Series.to_list.html)
 matching_file_filtered_for_most_relevant_impact_categories = matching_file[matching_file['SP_name'].isin(List_most_relevant_impact_categories)] #filter out the most relevant impact categories in the matching file (https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.isin.html)
-#to loop through the dataframes for the contribution of the activities and processes a dictionary is made, linking each dataframe to a variable
-dictionary_all_impact_categories_and_dataframes = {'water_use': water_use, 'acidification': acidification, 'climate_change':climate_change, 'ecotoxicity':ecotoxicity, 'eutrophication_freshwater':eutrophication_freshwater, 'eutrophication_marine':eutrophication_marine, 'eutrophication_terrestrial':eutrophication_terrestrial, 'human_toxicity_cancer':human_toxicity_cancer, 'human_toxicity_non_cancer':human_toxicity_non_cancer, 'ionising_radiation':ionising_radiation, 'land_use':land_use, 'ozone_depletion':ozone_depletion, 'particulate_matter':particulate_matter, 'photochemical_ozone_formation':photochemical_ozone_formation, 'resource_use_fossils':resource_use_fossils, 'resource_use_minerals_metals':resource_use_minerals_metals}
 
 total_overview = pd.DataFrame()
 contribution_processes_combined = pd.DataFrame()

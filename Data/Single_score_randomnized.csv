@@ -1,0 +1,18 @@
+﻿Damage category;Unit;Total;Activity 1;Activity 2;Activity 3;Activity 4;Activity 5
+Total;µPt;4132;830;779;764;920;839
+Acidification;µPt;202;77;40;66;18;1
+Climate change;µPt;172;2;22;43;60;45
+Ecotoxicity, freshwater;µPt;348;91;78;52;42;85
+Particulate matter;µPt;189;69;10;37;26;47
+Eutrophication, marine;µPt;296;50;85;63;93;5
+Eutrophication, freshwater;µPt;262;9;25;90;49;89
+Eutrophication, terrestrial;µPt;280;97;13;24;89;57
+Human toxicity, cancer;µPt;252;96;53;8;61;34
+Human toxicity, non-cancer;µPt;350;40;93;55;93;69
+Ionising radiation;µPt;297;9;37;66;91;94
+Land use;µPt;192;65;30;22;39;36
+Ozone depletion;µPt;121;16;34;7;29;35
+Photochemical ozone formation;µPt;372;90;93;78;38;73
+Resource use, fossils;µPt;278;71;88;23;77;19
+Resource use, minerals and metals;µPt;263;2;37;69;73;82
+Water use;µPt;258;46;41;61;42;68

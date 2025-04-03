@@ -1,0 +1,698 @@
+Damage category;Contribution Impact Categories [%];Activity;Contribution Activities [%];Process;Contribution Processes [%]
+Water use;6.243949661181026;Activity 4;22.89;Water_use_13;2.41
+;;;;Water_use_10;1.99
+;;;;Water_use_19;1.79
+;;;;Water_use_20;1.69
+;;;;Water_use_5;1.67
+;;;;Water_use_15;1.47
+;;;;Water_use_6;1.42
+;;;;Water_use_17;1.3
+;;;;Water_use_11;1.28
+;;;;Water_use_16;1.25
+;;;;Water_use_14;1.03
+;;;;Water_use_8;0.98
+;;;;Water_use_12;0.93
+;;Activity 1;22.03;Water_use_9;2.41
+;;;;Water_use_4;2.14
+;;;;Water_use_13;2.11
+;;;;Water_use_11;1.92
+;;;;Water_use_6;1.67
+;;;;Water_use_19;1.62
+;;;;Water_use_12;1.47
+;;;;Water_use_7;1.18
+;;;;Water_use_16;1.15
+;;;;Water_use_20;1.15
+;;;;Water_use_10;1.08
+;;;;Water_use_14;0.98
+;;Activity 2;21.13;Water_use_16;2.26
+;;;;Water_use_18;2.16
+;;;;Water_use_8;2.11
+;;;;Water_use_7;1.89
+;;;;Water_use_11;1.84
+;;;;Water_use_4;1.69
+;;;;Water_use_10;1.69
+;;;;Water_use_3;1.57
+;;;;Water_use_19;1.4
+;;;;Water_use_17;1.11
+;;;;Water_use_15;0.96
+;;Activity 3;21.1;Water_use_3;2.38
+;;;;Water_use_12;2.33
+;;;;Water_use_15;2.16
+;;;;Water_use_9;2.11
+;;;;Water_use_2;2.09
+;;;;Water_use_8;1.97
+;;;;Water_use_16;1.69
+;;Activity 5;;Water_use_17;2.46
+;;;;Water_use_12;2.31
+;;;;Water_use_6;1.77
+;;;;Water_use_20;1.08
+;;;;Water_use_10;1.06
+Acidification;4.888673765730881;Activity 1;23.84;Acidification 14;2.38
+;;;;Acidification 5;2.21
+;;;;Acidification 19;2.12
+;;;;Acidification 13;2.1
+;;;;Acidification 10;2.02
+;;;;Acidification 17;1.98
+;;;;Acidification 4;1.91
+;;;;Acidification 18;1.52
+;;;;Acidification 6;1.45
+;;;;Acidification 15;1.29
+;;Activity 3;23.72;Acidification 15;2.31
+;;;;Acidification 9;2.29
+;;;;Acidification 7;2.1
+;;;;Acidification 1;1.91
+;;;;Acidification 4;1.76
+;;;;Acidification 19;1.74
+;;;;Acidification 11;1.74
+;;;;Acidification 12;1.48
+;;;;Acidification 2 ;1.48
+;;;;Acidification 3;1.29
+;;;;Acidification 14;1.26
+;;;;Acidification 16;1.14
+;;Activity 4;21.39;Acidification 10;2.33
+;;;;Acidification 18;2.17
+;;;;Acidification 13;1.81
+;;;;Acidification 8;1.76
+;;;;Acidification 1;1.76
+;;;;Acidification 11;1.69
+;;;;Acidification 2 ;1.43
+;;;;Acidification 4;1.29
+;;;;Acidification 15;1.29
+;;;;Acidification 12;1.29
+;;;;Acidification 19;1.12
+;;;;Acidification 5;0.88
+;;Activity 5;;Acidification 16;2.24
+;;;;Acidification 14;2.17
+;;;;Acidification 7;1.62
+;;;;Acidification 13;1.55
+;;;;Acidification 15;1.36
+;;;;Acidification 2 ;1.14
+;;;;Acidification 19;1.14
+;;;;Acidification 17;1.05
+;;;;Acidification 1;0.95
+;;;;Acidification 6;0.86
+;;Activity 2;;Acidification 3;1.57
+;;;;Acidification 5;1.45
+;;;;Acidification 17;1.31
+;;;;Acidification 13;1.29
+;;;;Acidification 10;1.19
+;;;;Acidification 8;0.86
+Ecotoxicity, freshwater;8.422071636011616;Activity 5;23.61;Ecotoxicity_part 1_6;2.23
+;;;;Ecotoxicity_part 2_9;2.14
+;;;;Ecotoxicity_part 1_9;2.11
+;;;;Ecotoxicity_part 1_13;1.87
+;;;;Ecotoxicity_part 2_17;1.78
+;;;;Ecotoxicity_part 2_12;1.75
+;;;;Ecotoxicity_part 1_20;1.73
+;;;;Ecotoxicity_part 1_19;1.66
+;;;;Ecotoxicity_part 2_19;1.66
+;;;;Ecotoxicity_part 1_17;1.62
+;;;;Ecotoxicity_part 2_3;1.6
+;;;;Ecotoxicity_part 1_11;1.6
+;;;;Ecotoxicity_part 1_3;1.57
+;;;;Ecotoxicity_part 2_18;1.55
+;;;;Ecotoxicity_part 1_12;1.53
+;;;;Ecotoxicity_part 1_10;1.53
+;;;;Ecotoxicity_part 1_8;1.48
+;;;;Ecotoxicity_part 2_5;1.3
+;;;;Ecotoxicity_part 2_15;1.24
+;;;;Ecotoxicity_part 1_15;1.12
+;;;;Ecotoxicity_part 2_7;1.01
+;;;;Ecotoxicity_part 2_8;0.99
+;;;;Ecotoxicity_part 1_16;0.94
+;;;;Ecotoxicity_part 2_20;0.9
+;;;;Ecotoxicity_part 2_10;0.85
+;;;;Ecotoxicity_part 2_14;0.83
+;;;;Ecotoxicity_part 2_11;0.83
+;;;;Ecotoxicity_part 2_6;0.74
+;;Activity 3;22.42;Ecotoxicity_part 1_18;2.18
+;;;;Ecotoxicity_part 1_10;2.18
+;;;;Ecotoxicity_part 1_3;2.11
+;;;;Ecotoxicity_part 2_12;2.09
+;;;;Ecotoxicity_part 2_16;2.07
+;;;;Ecotoxicity_part 1_4;2.0
+;;;;Ecotoxicity_part 1_13;2.0
+;;;;Ecotoxicity_part 2_4;1.91
+;;;;Ecotoxicity_part 2_19;1.82
+;;;;Ecotoxicity_part 1_9;1.82
+;;;;Ecotoxicity_part 1_8;1.8
+;;;;Ecotoxicity_part 2_15;1.66
+;;;;Ecotoxicity_part 1_17;1.64
+;;;;Ecotoxicity_part 1_14;1.57
+;;;;Ecotoxicity_part 2_11;1.55
+;;;;Ecotoxicity_part 2_2;1.55
+;;;;Ecotoxicity_part 1_15;1.46
+;;;;Ecotoxicity_part 2_10;1.42
+;;;;Ecotoxicity_part 1_7;1.3
+;;;;Ecotoxicity_part 2_6;1.3
+;;;;Ecotoxicity_part 2_8;1.1
+;;;;Ecotoxicity_part 2_5;1.08
+;;;;Ecotoxicity_part 2_7;1.01
+;;;;Ecotoxicity_part 2_13;0.92
+;;;;Ecotoxicity_part 2_17;0.72
+;;;;Ecotoxicity_part 1_12;0.7
+;;Activity 1;;Ecotoxicity_part 2_4;2.23
+;;;;Ecotoxicity_part 1_17;2.18
+;;;;Ecotoxicity_part 2_10;2.14
+;;;;Ecotoxicity_part 2_12;2.05
+;;;;Ecotoxicity_part 2_15;2.0
+;;;;Ecotoxicity_part 2_20;1.91
+;;;;Ecotoxicity_part 2_3;1.91
+;;;;Ecotoxicity_part 1_18;1.84
+;;;;Ecotoxicity_part 1_6;1.75
+;;;;Ecotoxicity_part 2_5;1.66
+;;;;Ecotoxicity_part 2_14;1.64
+;;;;Ecotoxicity_part 1_15;1.62
+;;;;Ecotoxicity_part 1_2;1.57
+;;;;Ecotoxicity_part 2_11;1.51
+;;;;Ecotoxicity_part 2_6;1.33
+;;;;Ecotoxicity_part 1_4;1.33
+;;;;Ecotoxicity_part 1_9;1.21
+;;;;Ecotoxicity_part 1_10;1.15
+;;;;Ecotoxicity_part 2_19;1.08
+;;;;Ecotoxicity_part 1_3;1.08
+;;;;Ecotoxicity_part 1_13;0.97
+;;;;Ecotoxicity_part 1_12;0.94
+;;;;Ecotoxicity_part 1_5;0.9
+;;;;Ecotoxicity_part 1_8;0.79
+;;;;Ecotoxicity_part 2_13;0.76
+;;;;Ecotoxicity_part 2_18;0.76
+;;Activity 4;;Ecotoxicity_part 1_9;2.2
+;;;;Ecotoxicity_part 1_2;2.14
+;;;;Ecotoxicity_part 1_3;2.11
+;;;;Ecotoxicity_part 2_7;2.07
+;;;;Ecotoxicity_part 2_9;2.07
+;;;;Ecotoxicity_part 2_19;2.07
+;;;;Ecotoxicity_part 2_17;1.98
+;;;;Ecotoxicity_part 1_13;1.93
+;;;;Ecotoxicity_part 2_14;1.93
+;;;;Ecotoxicity_part 2_2;1.66
+;;;;Ecotoxicity_part 2_3;1.62
+;;;;Ecotoxicity_part 2_4;1.51
+;;;;Ecotoxicity_part 2_8;1.51
+;;;;Ecotoxicity_part 1_14;1.39
+;;;;Ecotoxicity_part 2_10;1.33
+;;;;Ecotoxicity_part 2_11;1.3
+;;;;Ecotoxicity_part 1_11;1.19
+;;;;Ecotoxicity_part 1_18;1.17
+;;;;Ecotoxicity_part 1_10;1.1
+;;;;Ecotoxicity_part 1_7;1.01
+;;;;Ecotoxicity_part 2_12;0.99
+;;;;Ecotoxicity_part 2_13;0.85
+;;;;Ecotoxicity_part 2_5;0.85
+;;;;Ecotoxicity_part 1_8;0.81
+;;Activity 2;;Ecotoxicity_part 2_12;2.23
+;;;;Ecotoxicity_part 1_15;2.11
+;;;;Ecotoxicity_part 1_16;1.93
+;;;;Ecotoxicity_part 1_20;1.91
+;;;;Ecotoxicity_part 2_13;1.8
+;;;;Ecotoxicity_part 1_13;1.8
+;;;;Ecotoxicity_part 2_7;1.73
+;;;;Ecotoxicity_part 2_5;1.71
+;;;;Ecotoxicity_part 1_4;1.66
+;;;;Ecotoxicity_part 2_16;1.62
+;;;;Ecotoxicity_part 2_11;1.57
+;;;;Ecotoxicity_part 2_19;1.55
+;;;;Ecotoxicity_part 2_15;1.55
+;;;;Ecotoxicity_part 2_8;1.53
+;;;;Ecotoxicity_part 2_3;1.44
+;;;;Ecotoxicity_part 2_2;1.21
+;;;;Ecotoxicity_part 1_18;1.19
+;;;;Ecotoxicity_part 2_6;1.17
+;;;;Ecotoxicity_part 1_7;1.12
+;;;;Ecotoxicity_part 2_18;1.1
+;;;;Ecotoxicity_part 1_17;1.08
+;;;;Ecotoxicity_part 1_12;0.94
+;;;;Ecotoxicity_part 1_8;0.72
+;;;;Ecotoxicity_part 2_9;0.7
+Eutrophication, marine;7.163601161665054;Activity 3;23.48;Eutrophication_Marine_5;2.01
+;;;;Eutrophication_Marine_8;1.94
+;;;;Eutrophication_Marine_20;1.94
+;;;;Eutrophication_Marine_7;1.82
+;;;;Eutrophication_Marine_6;1.8
+;;;;Eutrophication_Marine_17;1.6
+;;;;Eutrophication_Marine_3;1.52
+;;;;Eutrophication_Marine_16;1.38
+;;;;Eutrophication_Marine_18;1.36
+;;;;Eutrophication_Marine_10;1.34
+;;;;Eutrophication_Marine_4;1.26
+;;;;Eutrophication_Marine_9;1.17
+;;;;Eutrophication_Marine_12;1.13
+;;Activity 4;21.11;Eutrophication_Marine_3;1.99
+;;;;Eutrophication_Marine_20;1.96
+;;;;Eutrophication_Marine_12;1.96
+;;;;Eutrophication_Marine_5;1.9
+;;;;Eutrophication_Marine_15;1.8
+;;;;Eutrophication_Marine_2;1.58
+;;;;Eutrophication_Marine_17;1.48
+;;;;Eutrophication_Marine_18;1.32
+;;;;Eutrophication_Marine_13;1.26
+;;;;Eutrophication_Marine_9;1.26
+;;;;Eutrophication_Marine_19;1.15
+;;;;Eutrophication_Marine_14;1.01
+;;Activity 1;20.84;Eutrophication_Marine_7;2.01
+;;;;Eutrophication_Marine_20;2.01
+;;;;Eutrophication_Marine_9;1.92
+;;;;Eutrophication_Marine_6;1.86
+;;;;Eutrophication_Marine_8;1.58
+;;;;Eutrophication_Marine_13;1.56
+;;;;Eutrophication_Marine_17;1.54
+;;;;Eutrophication_Marine_11;1.38
+;;;;Eutrophication_Marine_14;1.38
+;;;;Eutrophication_Marine_15;1.22
+;;;;Eutrophication_Marine_12;1.15
+;;Activity 2;;Eutrophication_Marine_9;1.86
+;;;;Eutrophication_Marine_6;1.82
+;;;;Eutrophication_Marine_2;1.66
+;;;;Eutrophication_Marine_12;1.6
+;;;;Eutrophication_Marine_14;1.58
+;;;;Eutrophication_Marine_18;1.36
+;;;;Eutrophication_Marine_20;1.24
+;;;;Eutrophication_Marine_16;1.13
+;;;;Eutrophication_Marine_8;1.05
+;;;;Eutrophication_Marine_4;0.99
+;;;;Eutrophication_Marine_19;0.97
+;;Activity 5;;Eutrophication_Marine_12;2.01
+;;;;Eutrophication_Marine_17;1.6
+;;;;Eutrophication_Marine_7;1.46
+;;;;Eutrophication_Marine_6;1.2
+;;;;Eutrophication_Marine_19;1.2
+;;;;Eutrophication_Marine_15;0.97
+Eutrophication, freshwater;6.340755082284607;Activity 5;22.44;Eutrophication_freshwater_17;2.12
+;;;;Eutrophication_freshwater_4;2.05
+;;;;Eutrophication_freshwater_15;1.92
+;;;;Eutrophication_freshwater_6;1.9
+;;;;Eutrophication_freshwater_11;1.76
+;;;;Eutrophication_freshwater_18;1.59
+;;;;Eutrophication_freshwater_19;1.52
+;;;;Eutrophication_freshwater_14;1.42
+;;;;Eutrophication_freshwater_20;1.4
+;;;;Eutrophication_freshwater_7;1.18
+;;Activity 1;22.34;Eutrophication_freshwater_14;2.09
+;;;;Eutrophication_freshwater_13;2.07
+;;;;Eutrophication_freshwater_16;2.03
+;;;;Eutrophication_freshwater_15;1.86
+;;;;Eutrophication_freshwater_9;1.71
+;;;;Eutrophication_freshwater_5;1.63
+;;;;Eutrophication_freshwater_6;1.61
+;;;;Eutrophication_freshwater_11;1.54
+;;;;Eutrophication_freshwater_19;1.52
+;;;;Eutrophication_freshwater_4;1.42
+;;;;Eutrophication_freshwater_2;1.4
+;;;;Eutrophication_freshwater_8;1.02
+;;Activity 2;20.43;Eutrophication_freshwater_11;2.03
+;;;;Eutrophication_freshwater_2;1.97
+;;;;Eutrophication_freshwater_19;1.92
+;;;;Eutrophication_freshwater_8;1.9
+;;;;Eutrophication_freshwater_3;1.8
+;;;;Eutrophication_freshwater_16;1.78
+;;;;Eutrophication_freshwater_20;1.46
+;;;;Eutrophication_freshwater_6;1.4
+;;;;Eutrophication_freshwater_4;1.29
+;;;;Eutrophication_freshwater_13;1.1
+;;Activity 3;;Eutrophication_freshwater_14;2.09
+;;;;Eutrophication_freshwater_12;1.99
+;;;;Eutrophication_freshwater_3;1.78
+;;;;Eutrophication_freshwater_17;1.65
+;;;;Eutrophication_freshwater_2;1.57
+;;;;Eutrophication_freshwater_15;1.4
+;;;;Eutrophication_freshwater_7;1.27
+;;;;Eutrophication_freshwater_20;1.12
+;;;;Eutrophication_freshwater_6;1.08
+;;;;Eutrophication_freshwater_10;0.97
+;;Activity 4;;Eutrophication_freshwater_14;2.07
+;;;;Eutrophication_freshwater_7;1.99
+;;;;Eutrophication_freshwater_5;1.92
+;;;;Eutrophication_freshwater_16;1.92
+;;;;Eutrophication_freshwater_15;1.69
+;;;;Eutrophication_freshwater_18;1.35
+;;;;Eutrophication_freshwater_10;1.1
+Eutrophication, terrestrial;6.7763794772507255;Activity 4;22.72;Eutrophication_terrestrial_9;2.38
+;;;;Eutrophication_terrestrial_3;2.28
+;;;;Eutrophication_terrestrial_14;2.11
+;;;;Eutrophication_terrestrial_17;2.04
+;;;;Eutrophication_terrestrial_11;1.75
+;;;;Eutrophication_terrestrial_4;1.7
+;;;;Eutrophication_terrestrial_2;1.55
+;;;;Eutrophication_terrestrial_13;1.45
+;;;;Eutrophication_terrestrial_7;1.38
+;;;;Eutrophication_terrestrial_6;1.33
+;;;;Eutrophication_terrestrial_15;1.04
+;;;;Eutrophication_terrestrial_5;0.95
+;;Activity 2;21.05;Eutrophication_terrestrial_17;2.4
+;;;;Eutrophication_terrestrial_15;2.13
+;;;;Eutrophication_terrestrial_18;2.04
+;;;;Eutrophication_terrestrial_14;1.96
+;;;;Eutrophication_terrestrial_12;1.89
+;;;;Eutrophication_terrestrial_7;1.79
+;;;;Eutrophication_terrestrial_8;1.41
+;;;;Eutrophication_terrestrial_10;1.21
+;;;;Eutrophication_terrestrial_13;1.12
+;;;;Eutrophication_terrestrial_20;1.09
+;;Activity 5;;Eutrophication_terrestrial_2;2.18
+;;;;Eutrophication_terrestrial_10;1.96
+;;;;Eutrophication_terrestrial_19;1.94
+;;;;Eutrophication_terrestrial_12;1.77
+;;;;Eutrophication_terrestrial_8;1.72
+;;;;Eutrophication_terrestrial_18;1.12
+;;;;Eutrophication_terrestrial_20;1.07
+;;;;Eutrophication_terrestrial_17;1.04
+;;;;Eutrophication_terrestrial_9;1.04
+;;;;Eutrophication_terrestrial_4;0.95
+;;;;Eutrophication_terrestrial_11;0.85
+;;Activity 1;;Eutrophication_terrestrial_17;2.38
+;;;;Eutrophication_terrestrial_15;2.09
+;;;;Eutrophication_terrestrial_19;2.01
+;;;;Eutrophication_terrestrial_4;1.84
+;;;;Eutrophication_terrestrial_14;1.79
+;;;;Eutrophication_terrestrial_10;1.43
+;;;;Eutrophication_terrestrial_8;1.43
+;;;;Eutrophication_terrestrial_16;1.38
+;;;;Eutrophication_terrestrial_3;0.87
+;;Activity 3;;Eutrophication_terrestrial_15;2.33
+;;;;Eutrophication_terrestrial_4;2.13
+;;;;Eutrophication_terrestrial_13;1.94
+;;;;Eutrophication_terrestrial_19;1.7
+;;;;Eutrophication_terrestrial_7;1.43
+;;;;Eutrophication_terrestrial_9;1.31
+;;;;Eutrophication_terrestrial_10;1.07
+;;;;Eutrophication_terrestrial_17;0.82
+Human toxicity, cancer;6.098741529525654;Activity 3;25.42;Human_toxicity_cancer_13;2.14
+;;;;Human_toxicity_cancer_19;2.07
+;;;;Human_toxicity_cancer_6;2.01
+;;;;Human_toxicity_cancer_11;2.01
+;;;;Human_toxicity_cancer_15;1.97
+;;;;Human_toxicity_cancer_10;1.97
+;;;;Human_toxicity_cancer_4;1.68
+;;;;Human_toxicity_cancer_8;1.66
+;;;;Human_toxicity_cancer_3;1.6
+;;;;Human_toxicity_cancer_14;1.53
+;;;;Human_toxicity_cancer_9;1.27
+;;;;Human_toxicity_cancer_17;1.23
+;;;;Human_toxicity_cancer_2;1.04
+;;;;Human_toxicity_cancer_16;1.01
+;;;;Human_toxicity_cancer_12;0.95
+;;Activity 5;;Human_toxicity_cancer_7;2.14
+;;;;Human_toxicity_cancer_6;2.01
+;;;;Human_toxicity_cancer_15;2.01
+;;;;Human_toxicity_cancer_4;1.86
+;;;;Human_toxicity_cancer_11;1.55
+;;;;Human_toxicity_cancer_9;1.49
+;;;;Human_toxicity_cancer_2;1.49
+;;;;Human_toxicity_cancer_14;1.36
+;;;;Human_toxicity_cancer_19;1.17
+;;Activity 1;;Human_toxicity_cancer_2;2.05
+;;;;Human_toxicity_cancer_14;1.94
+;;;;Human_toxicity_cancer_19;1.68
+;;;;Human_toxicity_cancer_11;1.66
+;;;;Human_toxicity_cancer_5;1.6
+;;;;Human_toxicity_cancer_6;1.25
+;;;;Human_toxicity_cancer_16;1.17
+;;;;Human_toxicity_cancer_8;1.12
+;;Activity 2;;Human_toxicity_cancer_11;1.92
+;;;;Human_toxicity_cancer_5;1.68
+;;;;Human_toxicity_cancer_4;1.64
+;;;;Human_toxicity_cancer_8;1.64
+;;;;Human_toxicity_cancer_7;1.6
+;;;;Human_toxicity_cancer_2;1.55
+;;;;Human_toxicity_cancer_15;1.32
+;;;;Human_toxicity_cancer_12;1.25
+;;;;Human_toxicity_cancer_9;1.21
+;;;;Human_toxicity_cancer_14;0.97
+;;Activity 4;;Human_toxicity_cancer_5;2.07
+;;;;Human_toxicity_cancer_10;2.01
+;;;;Human_toxicity_cancer_8;1.86
+;;;;Human_toxicity_cancer_13;1.84
+;;;;Human_toxicity_cancer_17;1.64
+;;;;Human_toxicity_cancer_16;1.58
+;;;;Human_toxicity_cancer_19;1.38
+;;;;Human_toxicity_cancer_3;1.04
+;;;;Human_toxicity_cancer_7;0.91
+Human toxicity, non-cancer;8.470474346563407;Activity 3;21.59;Human_non_toxicity_cancer_14;1.89
+;;;;Human_non_toxicity_cancer_13;1.87
+;;;;Human_non_toxicity_cancer_6;1.84
+;;;;Human_non_toxicity_cancer_19;1.84
+;;;;Human_non_toxicity_cancer_3;1.8
+;;;;Human_non_toxicity_cancer_4;1.76
+;;;;Human_non_toxicity_cancer_8;1.66
+;;;;Human_non_toxicity_cancer_9;1.43
+;;;;Human_non_toxicity_cancer_11;1.07
+;;;;Human_non_toxicity_cancer_18;1.05
+;;;;Human_non_toxicity_cancer_17;1.03
+;;Activity 5;20.04;Human_non_toxicity_cancer_17;1.91
+;;;;Human_non_toxicity_cancer_9;1.91
+;;;;Human_non_toxicity_cancer_19;1.84
+;;;;Human_non_toxicity_cancer_12;1.7
+;;;;Human_non_toxicity_cancer_11;1.53
+;;;;Human_non_toxicity_cancer_16;1.47
+;;;;Human_non_toxicity_cancer_2;1.38
+;;;;Human_non_toxicity_cancer_5;1.28
+;;;;Human_non_toxicity_cancer_15;1.15
+;;;;Human_non_toxicity_cancer_4;1.11
+;;;;Human_non_toxicity_cancer_3;0.94
+;;;;Human_non_toxicity_cancer_10;0.86
+;;Activity 2;;Human_non_toxicity_cancer_7;1.89
+;;;;Human_non_toxicity_cancer_15;1.86
+;;;;Human_non_toxicity_cancer_19;1.86
+;;;;Human_non_toxicity_cancer_9;1.78
+;;;;Human_non_toxicity_cancer_17;1.64
+;;;;Human_non_toxicity_cancer_12;1.51
+;;;;Human_non_toxicity_cancer_8;1.45
+;;;;Human_non_toxicity_cancer_13;1.32
+;;;;Human_non_toxicity_cancer_2;1.28
+;;;;Human_non_toxicity_cancer_3;1.05
+;;;;Human_non_toxicity_cancer_10;0.99
+;;Activity 4;;Human_non_toxicity_cancer_5;1.89
+;;;;Human_non_toxicity_cancer_15;1.84
+;;;;Human_non_toxicity_cancer_2;1.82
+;;;;Human_non_toxicity_cancer_16;1.57
+;;;;Human_non_toxicity_cancer_13;1.36
+;;;;Human_non_toxicity_cancer_7;1.3
+;;;;Human_non_toxicity_cancer_8;1.19
+;;;;Human_non_toxicity_cancer_19;1.15
+;;;;Human_non_toxicity_cancer_14;1.11
+;;;;Human_non_toxicity_cancer_10;0.94
+;;;;Human_non_toxicity_cancer_9;0.92
+;;;;Human_non_toxicity_cancer_18;0.86
+;;Activity 1;;Human_non_toxicity_cancer_15;1.87
+;;;;Human_non_toxicity_cancer_19;1.72
+;;;;Human_non_toxicity_cancer_4;1.53
+;;;;Human_non_toxicity_cancer_17;1.51
+;;;;Human_non_toxicity_cancer_16;1.51
+;;;;Human_non_toxicity_cancer_5;1.17
+;;;;Human_non_toxicity_cancer_6;1.13
+;;;;Human_non_toxicity_cancer_7;1.05
+;;;;Human_non_toxicity_cancer_14;1.05
+;;;;Human_non_toxicity_cancer_9;0.96
+Ionising radiation;7.187802516940948;Activity 5;25.34;Ionising_radiation_19;1.99
+;;;;Ionising_radiation_3;1.95
+;;;;Ionising_radiation_15;1.75
+;;;;Ionising_radiation_12;1.67
+;;;;Ionising_radiation_14;1.63
+;;;;Ionising_radiation_5;1.61
+;;;;Ionising_radiation_2;1.59
+;;;;Ionising_radiation_20;1.57
+;;;;Ionising_radiation_13;1.56
+;;;;Ionising_radiation_10;1.56
+;;;;Ionising_radiation_7;1.54
+;;;;Ionising_radiation_16;1.4
+;;;;Ionising_radiation_11;1.36
+;;;;Ionising_radiation_18;1.26
+;;Activity 4;20.41;Ionising_radiation_19;1.91
+;;;;Ionising_radiation_17;1.87
+;;;;Ionising_radiation_10;1.85
+;;;;Ionising_radiation_3;1.65
+;;;;Ionising_radiation_15;1.46
+;;;;Ionising_radiation_9;1.4
+;;;;Ionising_radiation_5;1.34
+;;;;Ionising_radiation_14;1.16
+;;;;Ionising_radiation_11;1.14
+;;;;Ionising_radiation_8;1.02
+;;;;Ionising_radiation_18;0.98
+;;;;Ionising_radiation_6;0.96
+;;;;Ionising_radiation_16;0.92
+;;Activity 3;;Ionising_radiation_7;1.79
+;;;;Ionising_radiation_19;1.75
+;;;;Ionising_radiation_15;1.67
+;;;;Ionising_radiation_10;1.65
+;;;;Ionising_radiation_16;1.59
+;;;;Ionising_radiation_13;1.54
+;;;;Ionising_radiation_5;1.5
+;;;;Ionising_radiation_18;1.44
+;;;;Ionising_radiation_9;1.22
+;;;;Ionising_radiation_6;1.16
+;;Activity 2;;Ionising_radiation_9;1.59
+;;;;Ionising_radiation_7;1.59
+;;;;Ionising_radiation_5;1.4
+;;;;Ionising_radiation_6;1.4
+;;;;Ionising_radiation_8;1.36
+;;;;Ionising_radiation_2;1.26
+;;;;Ionising_radiation_14;1.24
+;;;;Ionising_radiation_12;1.22
+;;;;Ionising_radiation_17;1.2
+;;;;Ionising_radiation_3;1.16
+;;;;Ionising_radiation_11;1.14
+;;;;Ionising_radiation_16;0.98
+;;Activity 1;;Ionising_radiation_19;1.91
+;;;;Ionising_radiation_15;1.81
+;;;;Ionising_radiation_3;1.46
+;;;;Ionising_radiation_10;1.22
+;;;;Ionising_radiation_4;1.18
+;;;;Ionising_radiation_13;0.96
+;;;;Ionising_radiation_17;0.92
+Photochemical ozone formation;9.002904162633108;Activity 2;21.55;Photochemical_ozone_formation_8;2.09
+;;;;Photochemical_ozone_formation_19;2.07
+;;;;Photochemical_ozone_formation_6;1.94
+;;;;Photochemical_ozone_formation_5;1.75
+;;;;Photochemical_ozone_formation_18;1.75
+;;;;Photochemical_ozone_formation_14;1.71
+;;;;Photochemical_ozone_formation_9;1.4
+;;;;Photochemical_ozone_formation_15;1.38
+;;;;Photochemical_ozone_formation_10;1.38
+;;;;Photochemical_ozone_formation_20;1.27
+;;Activity 4;20.99;Photochemical_ozone_formation_6;2.09
+;;;;Photochemical_ozone_formation_10;1.94
+;;;;Photochemical_ozone_formation_4;1.73
+;;;;Photochemical_ozone_formation_14;1.67
+;;;;Photochemical_ozone_formation_16;1.63
+;;;;Photochemical_ozone_formation_18;1.52
+;;;;Photochemical_ozone_formation_13;1.32
+;;;;Photochemical_ozone_formation_3;1.21
+;;;;Photochemical_ozone_formation_17;1.21
+;;;;Photochemical_ozone_formation_5;1.19
+;;;;Photochemical_ozone_formation_9;1.15
+;;;;Photochemical_ozone_formation_20;1.13
+;;;;Photochemical_ozone_formation_12;1.02
+;;Activity 5;20.55;Photochemical_ozone_formation_6;2.05
+;;;;Photochemical_ozone_formation_11;2.03
+;;;;Photochemical_ozone_formation_7;1.9
+;;;;Photochemical_ozone_formation_9;1.67
+;;;;Photochemical_ozone_formation_19;1.59
+;;;;Photochemical_ozone_formation_13;1.44
+;;;;Photochemical_ozone_formation_4;1.27
+;;;;Photochemical_ozone_formation_10;1.27
+;;;;Photochemical_ozone_formation_2;1.23
+;;;;Photochemical_ozone_formation_14;1.04
+;;;;Photochemical_ozone_formation_8;1.0
+;;Activity 1;;Photochemical_ozone_formation_14;1.82
+;;;;Photochemical_ozone_formation_17;1.57
+;;;;Photochemical_ozone_formation_11;1.55
+;;;;Photochemical_ozone_formation_18;1.52
+;;;;Photochemical_ozone_formation_4;1.46
+;;;;Photochemical_ozone_formation_19;1.4
+;;;;Photochemical_ozone_formation_6;1.36
+;;;;Photochemical_ozone_formation_8;1.17
+;;;;Photochemical_ozone_formation_12;1.13
+;;;;Photochemical_ozone_formation_5;1.02
+;;;;Photochemical_ozone_formation_10;1.0
+;;Activity 3;;Photochemical_ozone_formation_9;2.09
+;;;;Photochemical_ozone_formation_14;1.98
+;;;;Photochemical_ozone_formation_15;1.84
+;;;;Photochemical_ozone_formation_2;1.63
+;;;;Photochemical_ozone_formation_6;1.52
+;;;;Photochemical_ozone_formation_17;1.48
+;;;;Photochemical_ozone_formation_13;1.32
+;;;;Photochemical_ozone_formation_12;1.29
+Resource use, fossils;6.727976766698935;Activity 5;23.2;Resource_use_fossil_2;2.06
+;;;;Resource_use_fossil_10;1.96
+;;;;Resource_use_fossil_15;1.96
+;;;;Resource_use_fossil_12;1.96
+;;;;Resource_use_fossil_11;1.96
+;;;;Resource_use_fossil_3;1.85
+;;;;Resource_use_fossil_13;1.83
+;;;;Resource_use_fossil_4;1.75
+;;;;Resource_use_fossil_9;1.62
+;;;;Resource_use_fossil_16;1.54
+;;;;Resource_use_fossil_7;1.18
+;;Activity 2;20.28;Resource_use_fossil_20;2.08
+;;;;Resource_use_fossil_15;1.85
+;;;;Resource_use_fossil_6;1.75
+;;;;Resource_use_fossil_11;1.72
+;;;;Resource_use_fossil_3;1.68
+;;;;Resource_use_fossil_7;1.66
+;;;;Resource_use_fossil_12;1.58
+;;;;Resource_use_fossil_18;1.37
+;;;;Resource_use_fossil_2;1.35
+;;;;Resource_use_fossil_8;1.33
+;;Activity 1;20.21;Resource_use_fossil_8;1.89
+;;;;Resource_use_fossil_7;1.85
+;;;;Resource_use_fossil_17;1.72
+;;;;Resource_use_fossil_13;1.64
+;;;;Resource_use_fossil_9;1.56
+;;;;Resource_use_fossil_15;1.56
+;;;;Resource_use_fossil_5;1.56
+;;;;Resource_use_fossil_4;1.45
+;;;;Resource_use_fossil_3;1.3
+;;;;Resource_use_fossil_18;1.2
+;;Activity 4;;Resource_use_fossil_17;2.0
+;;;;Resource_use_fossil_12;1.98
+;;;;Resource_use_fossil_13;1.85
+;;;;Resource_use_fossil_8;1.81
+;;;;Resource_use_fossil_11;1.58
+;;;;Resource_use_fossil_18;1.54
+;;;;Resource_use_fossil_4;1.45
+;;;;Resource_use_fossil_5;1.3
+;;;;Resource_use_fossil_7;1.22
+;;;;Resource_use_fossil_16;1.11
+;;;;Resource_use_fossil_19;0.99
+;;Activity 3;;Resource_use_fossil_12;2.1
+;;;;Resource_use_fossil_4;2.08
+;;;;Resource_use_fossil_17;2.04
+;;;;Resource_use_fossil_16;1.64
+;;;;Resource_use_fossil_11;1.43
+;;;;Resource_use_fossil_3;1.39
+;;;;Resource_use_fossil_10;1.3
+Resource use, minerals and metals;6.364956437560504;Activity 4;23.44;Resource_use_minerals_and_metals_16;1.96
+;;;;Resource_use_minerals_and_metals_17;1.96
+;;;;Resource_use_minerals_and_metals_4;1.9
+;;;;Resource_use_minerals_and_metals_3;1.9
+;;;;Resource_use_minerals_and_metals_13;1.84
+;;;;Resource_use_minerals_and_metals_7;1.82
+;;;;Resource_use_minerals_and_metals_15;1.8
+;;;;Resource_use_minerals_and_metals_6;1.74
+;;;;Resource_use_minerals_and_metals_12;1.72
+;;;;Resource_use_minerals_and_metals_10;1.23
+;;;;Resource_use_minerals_and_metals_19;0.98
+;;Activity 3;20.87;Resource_use_minerals_and_metals_5;1.96
+;;;;Resource_use_minerals_and_metals_4;1.86
+;;;;Resource_use_minerals_and_metals_15;1.82
+;;;;Resource_use_minerals_and_metals_8;1.71
+;;;;Resource_use_minerals_and_metals_18;1.71
+;;;;Resource_use_minerals_and_metals_13;1.63
+;;;;Resource_use_minerals_and_metals_7;1.61
+;;;;Resource_use_minerals_and_metals_10;1.59
+;;;;Resource_use_minerals_and_metals_6;1.41
+;;;;Resource_use_minerals_and_metals_20;1.04
+;;;;Resource_use_minerals_and_metals_9;0.9
+;;Activity 1;;Resource_use_minerals_and_metals_18;1.86
+;;;;Resource_use_minerals_and_metals_12;1.86
+;;;;Resource_use_minerals_and_metals_11;1.69
+;;;;Resource_use_minerals_and_metals_15;1.67
+;;;;Resource_use_minerals_and_metals_14;1.59
+;;;;Resource_use_minerals_and_metals_10;1.47
+;;;;Resource_use_minerals_and_metals_2;1.37
+;;;;Resource_use_minerals_and_metals_13;1.33
+;;;;Resource_use_minerals_and_metals_5;1.25
+;;;;Resource_use_minerals_and_metals_8;1.04
+;;;;Resource_use_minerals_and_metals_16;0.86
+;;Activity 2;;Resource_use_minerals_and_metals_5;1.86
+;;;;Resource_use_minerals_and_metals_7;1.82
+;;;;Resource_use_minerals_and_metals_20;1.57
+;;;;Resource_use_minerals_and_metals_9;1.55
+;;;;Resource_use_minerals_and_metals_16;1.53
+;;;;Resource_use_minerals_and_metals_10;1.41
+;;;;Resource_use_minerals_and_metals_8;1.35
+;;;;Resource_use_minerals_and_metals_6;1.2
+;;;;Resource_use_minerals_and_metals_12;1.2
+;;;;Resource_use_minerals_and_metals_11;1.1
+;;;;Resource_use_minerals_and_metals_17;0.94
+;;Activity 5;;Resource_use_minerals_and_metals_3;1.84
+;;;;Resource_use_minerals_and_metals_2;1.59
+;;;;Resource_use_minerals_and_metals_19;1.59
+;;;;Resource_use_minerals_and_metals_7;1.55
+;;;;Resource_use_minerals_and_metals_6;1.39
+;;;;Resource_use_minerals_and_metals_11;1.22
+;;;;Resource_use_minerals_and_metals_15;1.12
+;;;;Resource_use_minerals_and_metals_4;1.0
+;;;;Resource_use_minerals_and_metals_16;1.0
+;;;;Resource_use_minerals_and_metals_10;0.9
